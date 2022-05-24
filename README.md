@@ -2,9 +2,9 @@
 ====================
 
 3D chess game done in HTML/CSS/JS.
-Works only in webkit.
+Works only on Computer.
 
-See it in action : https://anirudddh.github.io/Chess
+See it in action : https://anirudddh.github.io/Chess-For-PC
 
 **Libraries**
 
